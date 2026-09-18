@@ -224,7 +224,6 @@ class _E02PageUiState extends State<E02PageUi> {
       ),
     );
   }
-
   Widget _buildSocialButton(String imagePath) {
     return Container(
       padding: const EdgeInsets.all(10),
